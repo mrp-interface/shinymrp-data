@@ -68,3 +68,5 @@ The files in `acs/` folder contain data used by the package functions for constr
 
 All data in this repository are released into the public domain under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/).  
 “No Rights Reserved” — you can copy, modify, and redistribute for any purpose.
+
+> *This product uses the Census Bureau Data API but is not endorsed or certified by the Census Bureau.*
